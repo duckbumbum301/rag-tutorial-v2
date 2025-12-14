@@ -1,0 +1,2 @@
+Model,Questions,Recall@5,Precision@5,MRR,ROUGE-L,Medical Accuracy,Avg Latency (s),Exact Match %,Disclaimer %
+baseline-test,3,2.5,1.0,1.0,0.1825273364605058,0.20000000000000004,14.097097317377726,0.0,0.0

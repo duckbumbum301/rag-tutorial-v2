@@ -1,0 +1,44 @@
+[
+  {
+    "question_id": "SYM001",
+    "model_name": "baseline-test",
+    "category": "symptom",
+    "recall_at_5": 2.5,
+    "precision_at_5": 1.0,
+    "mrr": 1.0,
+    "rouge_l": 0.2066115702479339,
+    "medical_accuracy": 0.4,
+    "total_latency": 14.352400779724121,
+    "exact_match": false,
+    "has_disclaimer": false,
+    "generated_answer": "• Các triệu chứng được ghi nhận:\n\nthể  dẫn  đến  các  biến  chứng  như  nhiễm  trùng  da  do  vi  khuẩn,  viêm  phổi  hoặc  viêm\nnão.\n\nĐây\n\nlà\n\nmột\n\ntrong\n\nnhững\n\nbệnh\n\n• thường\n\ngặp\n\nở\n\ntrẻ\n\nem\n.\n\n• Triệu  chứng  của  bệnh  thủy  đậu  thường  bao  gồm:\n●  Phát  ban  đỏ,  ngứa  xuất  hiện  ở  mặt,  ngực  và  lưng  trước  khi  lan  sang  các  bộ\nphận\n\nkhác\n\ncủa\n\ncơ\n\nthể.\n\nLúc\n\nban\n\nđầu,\n\nphát\n\nban\n\ntrông\n\ngiống\n\nnhững\n\nđốm\n\nđỏ\n\nnhỏ\n\nrồi\n\nsau\n\nđó\n\nnhanh\n\nchóng\n\nphát\n\ntriển\n\nthành\n\nmụn\n\nnước\n\nchứa\n\nđầy\n\ndịch.\n• ●  Sốt  nhẹ  đến  trung  bình\n• thường  dao  động  từ  38°C  -  39°C.  ●  Trẻ  bị  thủy  đậu  có  thể  cảm  thấy  mệt  mỏi\n• chán  ăn  hoặc  khó  chịu  nói  chung.  ●  Có  thể  bị  nhức  đầu  và  đau  nhức  cơ  thể\n• đặc  biệt  ở  trẻ  tiền  học  đường  và\nngười\n\ncao\n\ntuổi.\n..."
+  },
+  {
+    "question_id": "SYM002",
+    "model_name": "baseline-test",
+    "category": "symptom",
+    "recall_at_5": 2.5,
+    "precision_at_5": 1.0,
+    "mrr": 1.0,
+    "rouge_l": 0.16064257028112452,
+    "medical_accuracy": 0.0,
+    "total_latency": 13.614346742630005,
+    "exact_match": false,
+    "has_disclaimer": false,
+    "generated_answer": "• Các triệu chứng được ghi nhận:\n\nthể  dẫn  đến  các  biến  chứng  như  nhiễm  trùng  da  do  vi  khuẩn,  viêm  phổi  hoặc  viêm\nnão.\n\nĐây\n\nlà\n\nmột\n\ntrong\n\nnhững\n\nbệnh\n\n• thường\n\ngặp\n\nở\n\ntrẻ\n\nem\n.\n\n• Triệu  chứng  của  bệnh  thủy  đậu  thường  bao  gồm:\n●  Phát  ban  đỏ,  ngứa  xuất  hiện  ở  mặt,  ngực  và  lưng  trước  khi  lan  sang  các  bộ\nphận\n\nkhác\n\ncủa\n\ncơ\n\nthể.\n\nLúc\n\nban\n\nđầu,\n\nphát\n\nban\n\ntrông\n\ngiống\n\nnhững\n\nđốm\n\nđỏ\n\nnhỏ\n\nrồi\n\nsau\n\nđó\n\nnhanh\n\nchóng\n\nphát\n\ntriển\n\nthành\n\nmụn\n\nnước\n\nchứa\n\nđầy\n\ndịch.\n• ●  Sốt  nhẹ  đến  trung  bình\n• thường  dao  động  từ  38°C  -  39°C.  ●  Trẻ  bị  thủy  đậu  có  thể  cảm  thấy  mệt  mỏi\n• chán  ăn  hoặc  khó  chịu  nói  chung.  ●  Có  thể  bị  nhức  đầu  và  đau  nhức  cơ  thể\n• đặc  biệt  ở  trẻ  tiền  học  đường  và\nngười\n\ncao\n\ntuổi.\n..."
+  },
+  {
+    "question_id": "SYM003",
+    "model_name": "baseline-test",
+    "category": "symptom",
+    "recall_at_5": 2.5,
+    "precision_at_5": 1.0,
+    "mrr": 1.0,
+    "rouge_l": 0.18032786885245902,
+    "medical_accuracy": 0.2,
+    "total_latency": 14.324544429779053,
+    "exact_match": false,
+    "has_disclaimer": false,
+    "generated_answer": "• Các triệu chứng được ghi nhận:\n\n1.  Các  bệnh  trẻ  em  thường  gặp  ở  hệ  hô  hấp  Cảm  lạnh  thông  thường\n• Cảm  lạnh thông  thường  là  bệnh  nhiễm  trùng  đường  hô  hấp  trên  do  virus  gây  ra  (phổ  biến  nhất  là  rhinovirus).  Bệnh  thường  ảnh  hưởng  đến  mũi  và  cổ  họng.  Cảm\nlạnh\n\nthông\n\n• thường\n\nkhông\n\nquá\n\nnguy\n\nhiểm\n\nnhưng\n\ncó\n\nthể\n\nlàm\n\ncho\n\ntrẻ\n\nbị\n\nkhó\n\nchịu\n\nvà\n\ngây\n\ngián\n\nđoạn\n\nmột\n\nsố\n\nhoạt\n\nđộng\n\nsinh\n\nhoạt\n\nhàng\n\nngày.\n\nĐây\n\nlà\n\nmột\n\ntrong\n\nnhững\n\nbệnh\n• thường  gặp  ở  trẻ  em .  (1)\n• Triệu  chứng  của  cảm  lạnh  thường  bao  gồm  sổ  mũi\n• nghẹt  mũi\n• hắt  hơi\n• ho\n• đau\nhọng,\n\nsốt\n\nnhẹ,\n\nmệt\n\nmỏi\n\nvà\n\nđôi\n\nkhi\n\nđau\n\nnhức\n\ncơ\n\nthể\n\nnhẹ.\n\nKhi\n\nnhận\n\nthấy\n\ncon\n\ncó\n\nnhững\n\ntriệu\n\nchứng\n\nnày,\n\nba\n\nmẹ\n\nhãy\n\nđảm\n\nbảo\n\ncho\n\ntrẻ\n\nng..."
+  }
+]
